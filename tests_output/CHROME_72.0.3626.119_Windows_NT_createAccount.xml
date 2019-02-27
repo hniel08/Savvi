@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="createAccount"
+    errors="0" failures="1" hostname="" id="" package="createAccount" skipped="0"
+    tests="1" time="23.15" timestamp="">
+  
+    <testcase name="Create New Account" classname="createAccount" time="23.15" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;Element [name=@interestedTeam]&gt; to not be selected - element was not found - expected [0;32m&#34;not selected&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at Page.services (C:\Users\Owner\Desktop\DevMountain\Savvi\pageObjects\pageObjects.js:51:21)
+    at Object.Create New Account (C:\Users\Owner\Desktop\DevMountain\Savvi\tests\createAccount.js:16:16)</failure>
+
+    <failure message="    at Page.services (C:\Users\Owner\Desktop\DevMountain\Savvi\pageObjects\pageObjects.js:51:21)">    at Object.Create New Account (C:\Users\Owner\Desktop\DevMountain\Savvi\tests\createAccount.js:16:16)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
